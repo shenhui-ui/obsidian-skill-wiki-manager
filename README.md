@@ -447,6 +447,8 @@ Karpathy 提的 LLM Wiki 核心三原则：
 
 如需更复杂的能力（图谱可视化、BM25 排序、自动去重合并），按需在 `scripts/` 下扩展即可。
 
+完整落地示范见 [knowledge-base](https://github.com/shenhui-ui/knowledge-base)：176 篇 Wiki 文章 + 每日自动资讯管线，是本 skill 方法论的真实运行实例。
+
 ---
 
 ## 维护建议
